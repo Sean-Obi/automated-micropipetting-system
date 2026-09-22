@@ -1,0 +1,20 @@
+Subsystem,Component,MPN,Manufacturer,Supplier,Qty,Unit cost (GBP),Total (GBP),Notes
+Electronics,Elegoo Mega 2560 R3 controller board,EL-CB-003,Elegoo,Amazon,1,21.98,21.98,Arduino Mega compatible
+Electronics,2-layer bare rigid PCB,N/A,JLCPCB,JLCPCB,1,99.22,99.22,Custom interface PCB
+Electronics,Header 8-pos 0.1in tin,PPTC081LFBN-RC,DigiKey,DigiKey,19,0.496,9.42,
+Electronics,Terminal block 2-pos side entry 5.08mm,277-1258-ND,DigiKey,DigiKey,1,1.20,1.20,
+Electronics,LM2596 DC-DC adjustable buck converter,552440,Switch Electronics,Switch Electronics,5,1.95,9.75,4.5-40 V in
+Electronics,A4988 stepper driver module,D-A4988,Oosznest,Oosznest,4,4.52,18.08,Up to 35 V / 1.5 A; full to 1/16 microstep
+Gantry,Creality Ender-3 3D printer,Ender-3,Creality,Creality Official Store,1,139.00,139.00,Frame / motion system / PSU / end-stops
+Pipette,3 mL syringe (10 pack),732489269615,GSSFASHION,Amazon,1,5.48,5.48,
+Pipette,M3 x 35 mm hex socket cap screws (25 pcs),602451234203,Sourcingmap,Amazon,1,6.59,6.59,Class 10.9
+Pipette,M3 hex nut A2 stainless (20 pcs),B08HL9VVHX,Ascot City,Amazon,1,6.49,6.49,DIN 934
+Pipette,Standard compression spring,LC022D10M,Lee Spring,Lee Spring,2,4.24,8.48,
+Pipette,Kynar Luer female lock to 5/32in (4.0 mm) ID tube,E-F-160049,Eoxshop,Eoxshop,1,27.36,27.36,USP Class VI / ISO 594
+Screen,Nextion 4.3in HMI NX4827T043 resistive 480x272,296683638009,Nextion,eBay (SONOFF Store),1,52.79,52.79,
+Screen,32 GB microSD card,B0DRNNH8JR,Phison,Amazon,1,11.98,11.98,For loading Nextion .tft
+Actuator,Actuonix linear actuator control (LAC) board,RB-Fir-121,Actuonix,RobotShop,1,10.01,10.01,
+Actuator,Kitronik linear actuator micro servo kit,2595,Kitronik,Kitronik,1,18.95,18.95,
+Maintenance/testing,Hand exerciser grip strengthener (4 pack),741416340358,Portholic,Amazon,1,13.98,13.98,Used to simulate reduced dexterity in user testing
+Maintenance/testing,Motip freezer electronic spray 360 mL,M090409,Motip,Amazon,1,15.28,15.28,Non-flammable
+Maintenance/testing,Loctite universal super glue,5010305061236,Loctite,Amazon,1,7.49,7.49,

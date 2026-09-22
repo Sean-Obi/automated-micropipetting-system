@@ -1,0 +1,18 @@
+# Arduino / PlatformIO
+build/
+.pio/
+*.elf
+*.hex
+# Nextion editor temp
+*.bak
+# KiCad
+*-backups/
+*.kicad_prl
+fp-info-cache
+# SolidWorks
+~$*
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
