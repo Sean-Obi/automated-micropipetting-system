@@ -36,7 +36,7 @@ Full part list with suppliers and prices: [`hardware/BOM.csv`](hardware/BOM.csv)
 ### Interface PCB
 A 2-layer, 132 × 80 mm board that carries the three A4988 drivers, power inputs and all device connectors, with a 2×14 header to the Mega. KiCad files and Gerbers are in [`hardware/`](hardware/).
 
-![PCB layout](docs/images/pcb-layout.png)
+![PCB render](docs/images/pcb-render.png)
 
 > The layout in this repo is a 2026 reconstruction from the report schematic, not the original files sent to JLCPCB. See [`hardware/README.md`](hardware/README.md#board-layout).
 
