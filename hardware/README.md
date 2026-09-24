@@ -16,7 +16,7 @@
 
 ## Board Layout
 
-![PCB layout](../docs/images/pcb-layout.png)
+![PCB render](docs/images/pcb-render.png)
 
 > **Reconstruction.** The original 2025 layout files and the Gerbers sent to JLCPCB aren't in this repo. This layout was rebuilt in 2026 from the report's schematic figure and auto-routed with Freerouting. It is electrically equivalent to the schematic, but it is not the board that was manufactured.
 
