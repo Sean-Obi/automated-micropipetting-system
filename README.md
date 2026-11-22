@@ -1,8 +1,8 @@
-# Automated Micropipetting System - Gantry + Linear Actuator + Touchscreen
+# AccessiLab: Automated Micropipetting System - Gantry + Linear Actuator + Touchscreen
 
 A low-cost, bench-top pipetting robot that lets users with tremors, fatigue or limited upper-limb mobility pipette independently. A modified Ender-3 gantry positions an actuator-driven 3D-printed micropipette over labware, and the whole run is set up from a Nextion touchscreen: pick a source, the destination wells and a volume, then press start.
 
-Built as the Design & Prototyping group project built by nine second-year Molecular Bioengineering students at Imperial College London, supervised by Dr Ian Radcliffe.
+Built as the Design & Prototyping group project by nine second-year Molecular Bioengineering students at Imperial College London, supervised by Dr Ian Radcliffe.
 
 > ❗️**Prototype, not a certified lab instrument.** Accuracy was validated on the bench only. Don't use it for regulated or clinical work.
 
@@ -80,7 +80,7 @@ For the touchscreen:
 ## Installation
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/automated-micropipetting-system.git
+   git clone https://github.com/Sean-Obi/automated-micropipetting-system.git
    cd automated-micropipetting-system
    ```
 2. Wire the system per the pin table above, and set the A4988 current limits and buck converter voltages.
