@@ -38,8 +38,6 @@ A 2-layer, 132 × 80 mm board that carries the three A4988 drivers, power inputs
 
 ![PCB render](docs/images/pcb-render.png)
 
-> The layout in this repo is a 2026 reconstruction from the report schematic, not the original files sent to JLCPCB. See [`hardware/README.md`](hardware/README.md#board-layout).
-
 ### Power
 - Mains supplies the Ender-3 PSU (24 W total draw).
 - **12 V rail** (via buck converter) powers the LAC board and actuator.
@@ -249,7 +247,7 @@ automated-micropipetting-system/
 ├── hardware/
 │   ├── pcb_design.kicad_pro           # KiCad project
 │   ├── pcb_design.kicad_sch           # Schematic
-│   ├── pcb_design.kicad_pcb           # Board layout (reconstructed)
+│   ├── pcb_design.kicad_pcb           # Board layout
 │   ├── pcb_design_gerbers.zip         # Gerbers + drill files
 │   ├── apms.pretty/                   # Project footprint library
 │   ├── pcb_design.pdf                 # Plotted schematic

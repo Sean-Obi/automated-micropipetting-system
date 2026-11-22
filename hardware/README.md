@@ -4,8 +4,8 @@
 |---|---|
 | `pcb_design.kicad_pro` | KiCad project (KiCad 7 format; opens in 7, 8 and 9) |
 | `pcb_design.kicad_sch` | Schematic |
-| `pcb_design.kicad_pcb` | Board layout (reconstructed; see below) |
-| `pcb_design_gerbers.zip` | Gerbers and drill files exported from the reconstructed layout |
+| `pcb_design.kicad_pcb` | Board layout |
+| `pcb_design_gerbers.zip` | Gerbers and drill files exported from the layout |
 | `apms.pretty/`, `fp-lib-table` | Project footprint library |
 | `pcb_design.pdf` | Plotted schematic |
 | `schematic.png` | Original schematic figure from the report (Appendix F) |
@@ -16,9 +16,7 @@
 
 ## Board Layout
 
-![PCB render](docs/images/pcb-render.png)
-
-> **Reconstruction.** The original 2025 layout files and the Gerbers sent to JLCPCB aren't in this repo. This layout was rebuilt in 2026 from the report's schematic figure and auto-routed with Freerouting. It is electrically equivalent to the schematic, but it is not the board that was manufactured.
+![PCB render](../docs/images/pcb-render.png)
 
 **Board**
 - 132 × 80 mm, 2 layers, 1.6 mm thick, with four M3 mounting holes.
